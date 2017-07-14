@@ -1,4 +1,4 @@
-FROM drydock/u14javall:master
+FROM drydock/u14javall:{{%TAG%}}
 
 ADD . /u14scaall
 
