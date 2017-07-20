@@ -8,7 +8,7 @@ Shippable CI image for Scala on Ubuntu 14.04 with all available services. Availa
 
 **Services:**
 
-1. elasticsearch 5.4.4
+1. elasticsearch 5.5.0
 2. memcached 1.4.39
 3. mongodb 3.4.6
 4. mysql 5.6
